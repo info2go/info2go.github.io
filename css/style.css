@@ -1,6 +1,6 @@
 body {
 	margin: 0;
-	background: linear-gradient(#333333, #5a5454);
+	background: gradient(#333333, #5a5454);
 }
 
 .title {
