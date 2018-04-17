@@ -1,11 +1,12 @@
 body {
 	margin: 0;
-	backgroundcolor: black;
+	background-color: black;
 }
 
 .title {
 	text-align: center;
 	font-family: 'Roboto', sans-serif;
+	color: white;
 }
 
 
