@@ -1,7 +1,10 @@
 body {
 	margin: 0;
+	background-image: url("img/background.jpg");
+	background-size: cover;
+	background-position: center center;
+	position: relative;
 	background-color: rgb(7, 22, 59);
-	background-image: url(img/background.jpg);
 }
 
 .title {
