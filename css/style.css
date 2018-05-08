@@ -40,5 +40,6 @@ ul {
 
 li {
 	float: right;
-	
+	text-decoration: none;
+	margin-left: 20px
 }
