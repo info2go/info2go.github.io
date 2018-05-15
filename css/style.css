@@ -57,3 +57,7 @@ a {
 a:hover {
 	text-decoration: underline white;
 }
+
+.img_urknall {
+	float: right;
+}
