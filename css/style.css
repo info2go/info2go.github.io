@@ -68,7 +68,8 @@ a {
 .jit {
 	color: white;
 	float: right;
-	margin: 60px 40px 0 0;
+	margin: 230px 190px 0 0;
+	z-index: -1;
 }
 
 ul li a {
