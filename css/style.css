@@ -60,6 +60,11 @@ a {
 	border: 3px solid white;
 }
 
+.img_urknall:hover {
+	transform: rotateX(180deg);
+	transition: 500ms;
+}
+
 ul li a {
   position: relative;
   color: white;
