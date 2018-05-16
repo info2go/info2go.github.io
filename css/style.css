@@ -65,6 +65,11 @@ a {
 	transition: 500ms;
 }
 
+.jit {
+	color: white;
+	float: right;
+}
+
 ul li a {
   position: relative;
   color: white;
