@@ -61,13 +61,14 @@ a {
 }
 
 .img_urknall:hover {
-	transform: rotateX(90deg);
-	transition: 500ms;
+	transform: rotatey(90deg);
+	transition: 750ms;
 }
 
 .jit {
 	color: white;
 	float: right;
+	margin: 60px 40px 0 0;
 }
 
 ul li a {
