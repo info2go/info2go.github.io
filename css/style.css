@@ -74,12 +74,13 @@ a {
 	
 }
 
-.img_notecard::before {
+.img_notecard {
 	background-color: white;
 	margin: 0px;
 	height: 100%;
 	content:'';
 	position: absolute;
+	z-index: 100;
 }
 
 
