@@ -58,7 +58,7 @@ a {
 	float: right;
 	margin: 0px;
 	border: 3px solid white;
-
+	z-index: 1;
 }
 
 .img_urknall:hover {
@@ -71,11 +71,18 @@ a {
 	margin: 60px 40px 0 0;
 	width: 506px;
 	height: 361.983px;
+	z-index: 1;
 }
 
-.img_notecard {
+.img_notecard::before {
 	color: white;
 	margin: 0px;
+	z-index: -1;
+}
+
+.img_notecard:hover::before {
+	z-index: 2;
+	
 }
 
 ul li a {
