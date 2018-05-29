@@ -75,8 +75,7 @@ a {
 
 .img_notecard {
 	color: white;
-	float: right;
-	margin: 60px 40px 0 0;
+	margin: 0px;
 }
 
 .jit::before {
