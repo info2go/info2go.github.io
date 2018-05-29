@@ -62,7 +62,8 @@ a {
 }
 
 .img_urknall:hover {
-	z-index: -1;
+	transform: rotatey(180deg);
+	transition: 750ms;
 }
 
 .img_box {
@@ -76,7 +77,7 @@ a {
 .img_notecard {
 	color: white;
 	margin: 0px;
-	z-index: 0;
+	z-index: 2;
 }
 
 
