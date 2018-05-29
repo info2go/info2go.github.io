@@ -81,7 +81,7 @@ a {
 	
 ul li a {
   position: relative;
-  color: white;
+  color: black;
   text-decoration: none;
   z-index: 1;
 }
