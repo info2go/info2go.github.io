@@ -54,16 +54,14 @@ a {
 	font-size: 16px;
 }
 
-.img_urknall::before {
+.img_urknall {
 	float: right;
 	margin: 0px;
 	border: 3px solid white;
 	z-index: 1;
 }
 
-.img_urknall:hover::before {
-	transform: rotatey(180deg);
-	transition: 750ms;
+.img_urknall:hover {
 	z-index: -1;
 }
 
