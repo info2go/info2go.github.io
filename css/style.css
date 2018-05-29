@@ -77,14 +77,12 @@ a {
 .img_notecard::before {
 	background-color: white;
 	margin: 0px;
-	height: 0;
+	height: 100%;
 	content:'';
 	position: absolute;
 }
 
-.img_notecard:hover::before {
-	height: 100%;
-}
+
 
 ul li a {
   position: relative;
