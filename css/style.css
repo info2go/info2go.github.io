@@ -103,3 +103,7 @@ ul li a::before {
 ul li a:hover::before {
   height: 100%;
 }
+
+ul li a:hover {
+	color: black;	
+}
