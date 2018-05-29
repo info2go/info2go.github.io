@@ -62,7 +62,7 @@ a {
 }
 
 .img_urknall:hover {
-	transform: rotatey(180deg);
+	transform: rotatey(90deg);
 	transition: 750ms;
 }
 
