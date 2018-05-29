@@ -78,19 +78,6 @@ a {
 	margin: 0px;
 }
 
-.jit::before {
-	color: white;
-	float: right;
-	margin: 230px -320px 0 0;
-	height: 0;
-	transition: 250ms;
-	width: 100%;
-}
-
-.jit:hover::before {
-	height: 100%;
-}
-	
 ul li a {
   position: relative;
   color: white;
