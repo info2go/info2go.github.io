@@ -30,7 +30,7 @@ h1 {
 .wrapper {
 	height: 1080px;
 	background-image: url("../img/stars-galaxy.jpg");
-	background-size: 100%;
+	background-size: cover;
 	background-position: center center;
 }
 
