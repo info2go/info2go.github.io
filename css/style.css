@@ -75,14 +75,14 @@ a {
   	position: absolute;
   	left: 0;
   	top: 0;
-  	width: 506px;
+  	width: 505.8px;
   	height: 25px;
   	background-color: white;
  	color: white;
  	transition: all 250ms;
  	-moz-transition: all 250ms;
 	float: right;
-	margin: 60px 40px 0 0;
+	margin: 673.6px 40px 0px 1997px;
 }
 
 .img_notecard:hover::before {
