@@ -58,13 +58,9 @@ a {
 	float: right;
 	margin: 0px;
 	border: 3px solid white;
-	
+	height: 100%;
 }
 
-.img_urknall:hover {
-	transform: scale(0);
-	transition: 750ms;
-}
 
 .img_box {
 	float: right;
@@ -74,16 +70,22 @@ a {
 	
 }
 
-.img_notecard {
-	background-color: white;
-	margin: 0px;
-	height: 100%;
-	content:'';
-	position: absolute;
-	z-index: 100;
+.img_notecard::before {
+  content:'';
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: white;
+  color: white;
+  transition: all 250ms;
+  -moz-transition: all 250ms;
 }
 
-
+.img_notecard:hover::before {
+	height: 0;
+}
 
 ul li a {
   position: relative;
