@@ -66,8 +66,7 @@ a {
 }
 
 .n-ur {
-	float: left;
-	margin: 550px 0 0 40px;
+	float: right;
 	border: 3px solid white;
 }
 
@@ -78,12 +77,6 @@ a {
 	height: 361.983px;	
 }
 
-.img_n-ur {
-	float: left;
-	margin: 550px 0 0 40px;
-	height: 256px;
-	width: 506;
-}
 
 ul li a {
   	position: relative;
