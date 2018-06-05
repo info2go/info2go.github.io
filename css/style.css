@@ -104,4 +104,11 @@ ul li a:hover {
 	color: black;	
 }
 
+footer {
+	background-color: black;
+}
 
+footer p {
+	color: white;
+	text-align: center;
+}
