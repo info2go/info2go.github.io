@@ -39,13 +39,14 @@ h1 {
 }
 
 table.wikitable {
-    color: #222;
-    border-collapse: collapse;
+    	color: #222;
+    	border-collapse: collapse;
 }
 
 table.wikitable > * > tr > td {
-    border: 1px solid #a2a9b1;
-    padding: 0.2em 0.4em;
+    	border: 1px solid #a2a9b1;
+    	padding: 0.2em 0.4em;
+	color: white;
 }
 
 table.wikitable {
