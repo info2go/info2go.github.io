@@ -49,8 +49,8 @@ table.wikitable > * > tr > td {
 }
 
 table.wikitable {
-	display: block;
-	text-align: center;
+	flaot: right;
+	margin-left: 55px;
 }
 
 ul {
