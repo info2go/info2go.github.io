@@ -48,6 +48,11 @@ table.wikitable > * > tr > td {
     padding: 0.2em 0.4em;
 }
 
+table.wikitable {
+	display: block;
+	text-align: center;
+}
+
 ul {
 	float: right;
 	list-style: none;
