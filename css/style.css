@@ -75,10 +75,13 @@ a {
 	float: right;
 	margin: 60px 40px 0 0;
 	width: 506px;
-	height: 361.983px;
-	
+	height: 361.983px;	
 }
 
+.img_n-ur {
+	float: left;
+	margin: 550px 0 0 40px;
+}
 
 ul li a {
   	position: relative;
