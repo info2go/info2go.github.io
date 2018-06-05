@@ -74,24 +74,6 @@ a {
 	
 }
 
-.img_notecard::before {
-  	content:'';
-  	position: absolute;
-  	left: 0;
-  	top: 0;
-  	width: 505.6px;
-  	height: 25px;
-  	background-color: white;
- 	color: white;
- 	transition: all 250ms;
- 	-moz-transition: all 250ms;
-	float: right;
-	margin: 673.65px 40px 0px 2014.6px;
-}
-
-.img_notecard:hover::before {
-	height: 0;
-}
 
 ul li a {
   	position: relative;
