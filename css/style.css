@@ -111,10 +111,15 @@ a {
 	height: auto; 		     /*height: 361.983px;*/
 }
 
-@media only screen and (max-width: 890px) {
+@media only screen and (max-width: 1000px) {
 	.img_urknall {
 		margin-top: 500px;
 		width: 60%;
+		height: auto;
+	}
+	
+	.pg {
+		width: 80%;
 		height: auto;
 	}
 }
