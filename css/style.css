@@ -84,6 +84,12 @@ ul {
 	}
 }
 
+@media only screen and (max-width: 380px) {
+	ul {
+		width: 190px;
+	}
+}
+
 li {
 	float: right;
 	text-decoration: none;
