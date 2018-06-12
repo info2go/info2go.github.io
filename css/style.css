@@ -114,6 +114,8 @@ a {
 .n-ur {
 	float: right;
 	border: 3px solid white;
+	width: 40%;                  
+	height: auto; 
 }
 
 ul li a {
