@@ -73,7 +73,13 @@ ul {
 
 @media only screen and (max-width: 445px) {
 	ul {
-		width: 375px;
+		width: 290px;
+	}
+}
+
+@media only screen and (max-width: 430px) {
+	ul {
+		margin-top: -50px;
 	}
 }
 
