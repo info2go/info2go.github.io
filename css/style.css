@@ -87,6 +87,7 @@ ul {
 @media only screen and (max-width: 380px) {
 	ul {
 		width: 190px;
+		margin-top: -55px;
 	}
 }
 
