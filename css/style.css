@@ -107,16 +107,16 @@ a {
 	float: right;
 	margin: 0px;
 	border: 3px solid white;
-	width: 40%;                  /*width: 506px;*/
+	width: 42.5%;                  /*width: 506px;*/
 	height: auto; 		     /*height: 361.983px;*/
 }
 
-.n-ur {
-	float: right;
-	margin: 0px
-	border: 3px solid white;
-	width: 40%;                  
-	height: auto; 
+@media only screen and (max-width: 890px) {
+	.img_urknall {
+		margin-top: 500px;
+		width: 60%;
+		height: auto;
+	}
 }
 
 ul li a {
