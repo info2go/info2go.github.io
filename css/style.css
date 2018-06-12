@@ -118,8 +118,8 @@ a {
 .img_box {
 	float: right;
 	margin: 60px 40px 0 0;
-	width: 506px;
-	height: 361.983px;	
+	width: 40%;                  /*width: 506px;*/
+	height: auto; 		     /*height: 361.983px;*/	
 }
 
 
