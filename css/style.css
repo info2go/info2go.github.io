@@ -34,7 +34,7 @@ body {
 	position: absolute;
 }
 
-@media (max-width: 1070px) {
+@media (max-width: 1080px) {
 	.pf {
 		font-size: 1em;
 	}
