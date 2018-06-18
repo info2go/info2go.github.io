@@ -30,10 +30,9 @@ body {
 	font-size: 1.8em;
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 2550px) {
 	.pg {
-		width: 30%;
-		font-size: 1.2em
+		width: 100%;
 	}
 }
 
