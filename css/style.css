@@ -20,7 +20,7 @@ body {
 	font-size: 1.8em;
 }
 
-@media (max-width: 1162px) {
+@media (max-width: 1200px) {
 	.pg {
 		font-size: 1em;
 	}
@@ -34,7 +34,7 @@ body {
 	position: absolute;
 }
 
-@media (max-width: 1080px) {
+@media (max-width: 1103px) {
 	.pf {
 		font-size: 1em;
 	}
