@@ -47,6 +47,12 @@ body {
 	}
 }
 
+@media (max-width: 1400px) {
+	.pg {
+		font-size: 1.2em;		
+	}
+}
+
 .pf {
 	color: white;
 	font-size: 1.8em;
@@ -79,11 +85,6 @@ body {
 	}
 }
 
-@media (max-width: 1400px) {
-	.pg {
-		font-size: 1.2em;		
-	}
-}
 
 @media (max-width: 1330px) {
 	.tg {
