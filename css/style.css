@@ -37,8 +37,9 @@ body {
 	text-align: right;	
 }
 
-.mars {
-	padding: 0px 0px 0px 0px;	
+.planet {
+	width: 100%;
+	text-decoration: none;
 }
 
 .title1 {
