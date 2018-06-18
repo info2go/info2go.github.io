@@ -30,6 +30,9 @@ body {
 	color: white;
 	font-size: 1.8em;
 	position: absolute;
+}
+
+.tf {
 	padding: 0px 600px 0px 0px;
 	margin: 40px 5px 0px 10px;
 }
