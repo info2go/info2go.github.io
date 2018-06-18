@@ -14,7 +14,9 @@ body {
 
 .z {
 	color: white;
-	float: right;
+	float: left;
+	margin: 0px;
+	padding: 0px;
 }
 
 .title1 {
