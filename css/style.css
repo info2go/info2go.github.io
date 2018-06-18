@@ -31,6 +31,7 @@ body {
 	font-size: 1.8em;
 	padding: 0px 600px 0px 0px;
 	margin: 40px 5px 0px 10px;
+	position: absolute;
 }
 
 @media (max-width: 1150px) {
