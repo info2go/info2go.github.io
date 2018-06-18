@@ -75,6 +75,12 @@ body {
 	}
 }
 
+@media (max-width: 1330px) {
+	.tg {
+		padding: 0px 600px 0px 0px;		
+	}
+}
+
 .icon {
 	margin-left: 35px; /** 50px **/
 	margin-top: 35px;
