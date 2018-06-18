@@ -56,9 +56,15 @@ body {
 }
 
 .tg {
-	padding: 0px 600px 0px 0px;
+	padding: 0px 1100px 0px 0px;
 	margin: 40px 5px 0px 10px;
 	position: absolute;
+}
+
+@media (max-width: 2050px) {
+	.tg {
+		padding: 0px 900px 0px 0px;		
+	}
 }
 
 .icon {
