@@ -12,6 +12,11 @@ body {
 	font-size: 3.5em;
 }
 
+.z {
+	color: white;
+	float: right;
+}
+
 .title1 {
 	text-align: center;
 	margin-top: 0;
