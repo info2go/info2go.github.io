@@ -75,6 +75,12 @@ body {
 	}
 }
 
+@media (max-width: 1400px) {
+	.pg {
+		font-size: 1.2em;		
+	}
+}
+
 @media (max-width: 1330px) {
 	.tg {
 		padding: 0px 600px 0px 0px;		
