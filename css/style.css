@@ -33,13 +33,14 @@ body {
 	float: right;
 	margin: 0px;
 	padding: 0px;
+	decoration: none;
 	font-size: 1.8em;
 	padding: 0px 0px 0px 100px;
 	text-align: right;	
 }
 
 .mars {
-	
+	padding: 0px 0px 0px 0px;	
 }
 
 .title1 {
