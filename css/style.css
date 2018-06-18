@@ -33,6 +33,7 @@ body {
 @media (max-width: 1200px) {
 	.pg {
 		width: 30%;
+		font-size: 1.2em
 	}
 }
 
