@@ -19,12 +19,27 @@ body {
 	padding: 0px;
 	font-size: 1.8em;
 	padding: 0px 0px 0px 100px;
+	text-align: left;
 }
 
 .saturn {
 	width: 15%;
 	decoration: none;
 	padding: 50px 0px 0px 0px;
+}
+
+.y {
+	color: white;
+	float: right;
+	margin: 0px;
+	padding: 0px;
+	font-size: 1.8em;
+	padding: 0px 0px 0px 100px;
+	text-align: right;	
+}
+
+.mars {
+	
 }
 
 .title1 {
