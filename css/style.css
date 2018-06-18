@@ -27,6 +27,10 @@ body {
 	padding: 50px 0px 0px 0px;
 }
 
+.z_saturn {
+	float: left;
+}
+
 .y {
 	color: white;
 	float: right;
@@ -40,6 +44,10 @@ body {
 .venus {
 	width: 100%;
 	text-decoration: none;
+}
+
+.y_venus {
+	float: left;
 }
 
 .title1 {
