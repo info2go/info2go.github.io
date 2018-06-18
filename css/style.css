@@ -23,6 +23,7 @@ body {
 .pf {
 	color: white;
 	font-size: 1.8em;
+	position: absolute;
 }
 
 .tg {
@@ -69,7 +70,6 @@ table.wikitable {
 	float: right;
 	margin-right: 55px;
 	font-size: 1.4em;
-	position: absolute;
 }
 
 @media only screen and (max-width: 1000px) {
