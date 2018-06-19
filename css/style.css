@@ -82,6 +82,12 @@ body {
 	}
 }
 
+@media (max-width: 780px) {
+	.pf {
+		padding: 0px 500px 0px 0px;	
+	}
+}
+
 .tg {
 	padding: 0px 1100px 0px 0px;
 	margin: 40px 5px 0px 10px;
