@@ -286,6 +286,8 @@ ul li a:hover {
 footer {
 	background-color: black;
 	height: 65px;
+	position absolute;
+	bottom: 0;
 }
 
 footer p {
