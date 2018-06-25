@@ -164,6 +164,10 @@ h1 {
 	background-position: center center;
 }
 
+.impressum_wrapper {
+	width: 40%;
+}
+
 table.wikitable {
     	color: #222;
     	border-collapse: collapse;
