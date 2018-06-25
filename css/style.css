@@ -162,6 +162,7 @@ h1 {
 	background-image: url("../img/stars-galaxy.jpg");
 	background-size: cover;
 	background-position: center center;
+	padding-bottom: 50px;
 }
 
 .impressum_wrapper {
