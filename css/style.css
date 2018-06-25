@@ -12,6 +12,10 @@ body {
 	font-size: 3.5em;
 }
 
+.im {
+	color: white;
+}
+
 .z {
 	color: white;
 	float: left;
