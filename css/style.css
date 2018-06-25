@@ -165,10 +165,6 @@ h1 {
 	background-position: center center;
 }
 
-footer {
-	margin-top: 40px;
-}
-
 .impressum_wrapper {
 	width: 40%;
 	margin: 0 auto 0 auto;
@@ -291,6 +287,7 @@ ul li a:hover {
 footer {
 	background-color: black;
 	height: 65px;
+	margin-top: 40px;
 }
 
 footer p {
