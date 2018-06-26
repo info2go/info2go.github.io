@@ -167,6 +167,10 @@ h1 {
 	padding-bottom: 50px;
 }
 
+#index_wrapper {
+	margin-bottom: 400px;
+}
+
 .impressum_wrapper {
 	width: 50%;
 	margin: 0 auto 30px auto;
