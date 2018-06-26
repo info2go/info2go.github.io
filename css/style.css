@@ -160,7 +160,7 @@ h1 {
 }
 
 .wrapper {
-	background-color: blue;
+	background-image: url("../img/stars-galaxy.jpg");
 	background-size: cover;
 	background-position: center center;
 	height: 100%;
