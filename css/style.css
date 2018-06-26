@@ -162,7 +162,7 @@ h1 {
 	background-image: url("../img/stars-galaxy.jpg");
 	background-size: cover;
 	background-position: center center;
-	height: 1080px;
+	height: 100%;
 	padding-bottom: 50px;
 }
 
